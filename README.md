@@ -8,5 +8,6 @@ Feel free to explore my projects and reach out if you want to collaborate or cha
 I’m always open to suggestions and feedback, as it helps me grow.
 
 
-## 📫 How to reach me:  
-- [Telegram](https://t.me/rwrdt)
+## 📫 How to reach me:  
+[![Instagram](https://img.shields.io/badge/Instagram-@ranggawaridat-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ranggawaridat)
+- [![Telegram](https://img.shields.io/badge/Telegram-@rwrdt-%23E4405F?style=flat-square&logo=telegram&logoColor=white)](https://t.me/rwrdt)
