@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&size=28&duration=4000&pause=1000&color=FF79C6&center=true&vCenter=true&width=800&lines=Welcome+to+my+realm...;Coding+spells+in+Kotlin+%26+Compose;Turning+ideas+into+magical+apps;Every+line+of+code+is+a+whisper+to+the+stars)](https://git.io/typing-svg)
 
 <!-- Banner -->
-![Banner]([https://wallhaven.cc/w/4x712z](https://imgur.com/gallery/hey-im-getting-better-this-nbnuGFr#/t/fantasy))
+![Banner](https://imgur.com/gallery/hey-im-getting-better-this-nbnuGFr#/t/fantasy)
 
 ## 🌙 About Me  
 🔮 **Name:** R. Waridat
@@ -36,4 +36,5 @@
 [![Instagram](https://img.shields.io/badge/Instagram-660066?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/USERNAME)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-003366?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)  
 [![Email](https://img.shields.io/badge/Email-660033?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL-KAMU)
+
 
