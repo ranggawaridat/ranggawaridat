@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&size=28&duration=4000&pause=1000&color=FF79C6&width=800&lines=Welcome+to+my+realm...;Coding+spells+in+Kotlin+%26+Compose;Turning+ideas+into+magical+apps;Every+line+of+code+is+a+whisper+to+the+stars)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&size=28&duration=4000&pause=1000&color=FF79C6&center=true&vCenter=true&width=800&lines=Welcome+to+my+realm...;Coding+spells+in+Kotlin+%26+Compose;Turning+ideas+into+magical+apps;Every+line+of+code+is+a+whisper+to+the+stars)](https://git.io/typing-svg)
 
 
 ## 🌙 About Me  
@@ -16,13 +16,7 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-20232A?style=for-the-badge&logo=androidstudio&logoColor=3DDC84)
 ![Firebase](https://img.shields.io/badge/Firebase-1E1E1E?style=for-the-badge&logo=firebase&logoColor=FFB300)
 ![Git](https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git&logoColor=F14E32)
-
----
-
-## 📊 Stats from My Spellbook  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RanggaWaridat&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF79C6&icon_color=FFB86C)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RanggaWaridat&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF79C6)
-
+ 
 ---
 
 ## 📫 Summon Me  
