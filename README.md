@@ -6,11 +6,3 @@
 🔮 **Name:** R. Waridat
 📜 **Quest:** Crafting 100 magical apps that live beyond the realms of time  
 🪶 **Philosophy:** Every app is a story waiting to be told  
-
----
-
-## 📫 Summon Me  
-[![Instagram](https://img.shields.io/badge/Instagram-660066?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ranggawaridat)  
-[![Email](https://img.shields.io/badge/Email-660033?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranggawaridat@gmail.com)
-
-
