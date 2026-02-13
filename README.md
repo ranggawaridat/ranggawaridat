@@ -1,56 +1,39 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&size=28&duration=4000&pause=1000&color=6A0DAD&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Rangga+Waridat;Quietly+observing+systems+under+pressure;Designing+for+failure%2C+not+perfection;Building+things+that+degrade+gracefully)](https://git.io/typing-svg)
+# 👋 Hi, I'm Rangga Waridat
+
+## 🦫 Aspiring Go Backend Engineer
+*Crafting logic, one goroutine at a time.*
 
 ---
 
-### about
-
-I study how systems behave when assumptions collapse.  
-When networks degrade.  
-When control becomes partial.
-
-Silence, for me, is not absence —  
-it is a design choice.
+### 🎯 THE GOAL
+I am currently on a journey to master **Go (Golang)** and building scalable backend systems. This profile is a living documentation of my progress from fundamental syntax to high-performance architecture.
 
 ---
 
-### focus
-
-- Systems engineering (Go, backend)
-- Cloud-native & distributed systems
-- Failure-oriented design
-- Adversarial & defensive system analysis
-- Observability under constraint
+### 🛠️ CURRENTLY REFINING (Core Stack)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### notes
+### 🚀 ROADMAP & LEARNING
+*Technologies I'm actively exploring and aiming to master:*
 
-- Centralized control fails loudly.  
-  Distributed control fails quietly.
-
-- Attack paths are unintentional documentation.
-
-- Resilience is measured *after* recovery — not uptime.
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 
 ---
 
-### stance
-
-I treat adversarial systems as engineering problems.  
-Understanding control structures leads to calmer,
-more resilient defensive design.
+### 📈 MY JOURNEY
+[![Rangga's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranggawaridat&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-### contact
+### 📬 CONNECT WITH ME
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranggawaridat@gmail.com)
 
-If you think in failure modes,  
-we will understand each other.
-
-📧 ranggawaridat@gmail.com  
-🌐 https://wrdt.site  
-🐙 https://github.com/ranggawaridat
-
----
-
-*still observing*
+<p align="center">
+  <i>"Don't stop when you're tired, stop when you're done."</i>
+</p>
