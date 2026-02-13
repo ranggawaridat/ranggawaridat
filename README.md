@@ -6,8 +6,7 @@
 ---
 
 ### 🎯 THE GOAL
-I am currently on a journey to master **Go (Golang)** and building scalable backend systems. This profile is a living documentation of my progress from fundamental syntax to high-performance architecture.
-
+I am currently on a journey to master **Go (Golang)** and building scalable backend systems.
 ---
 
 ### 🛠️ CURRENTLY REFINING (Core Stack)
@@ -23,11 +22,6 @@ I am currently on a journey to master **Go (Golang)** and building scalable back
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-
----
-
-### 📈 MY JOURNEY
-[![Rangga's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranggawaridat&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
