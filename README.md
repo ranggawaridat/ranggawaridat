@@ -1,38 +1,45 @@
 # Rangga Waridat
 
-Backend (Go) • Learning in progress
+`Backend (Go)` • `Learning in progress`
 
 ---
 
-## Tech Stack
+## 🜂 Tech Stack
 
-![Go](https://img.shields.io/badge/Go-000?logo=go)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql)
-![Redis](https://img.shields.io/badge/Redis-000?logo=redis)
-![Docker](https://img.shields.io/badge/Docker-000?logo=docker)
-![Linux](https://img.shields.io/badge/Linux-000?logo=linux)
+![Go](https://img.shields.io/badge/Go-2E1A47?style=for-the-badge\&logo=go\&logoColor=C8B6FF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3A235C?style=for-the-badge\&logo=postgresql\&logoColor=C8B6FF)
+![Redis](https://img.shields.io/badge/Redis-2B1746?style=for-the-badge\&logo=redis\&logoColor=C8B6FF)
+![Docker](https://img.shields.io/badge/Docker-3E2A68?style=for-the-badge\&logo=docker\&logoColor=C8B6FF)
+![Linux](https://img.shields.io/badge/Linux-241238?style=for-the-badge\&logo=linux\&logoColor=C8B6FF)
 
 ---
 
-## Focus
+## 🜁 Focus
 
 * REST API
-* Authentication
+* Authentication (JWT)
 * Caching
 * Concurrency
-* System Design
-* Deployment
+* System Design (basic)
+* Deployment (VPS, NGINX)
 
 ---
 
-## Current
+## 🜃 Current
 
 * VPS deployment
-* CI/CD
+* CI/CD (basic)
 * Observability
 
 ---
 
-## Stats
+## 🜄 Activity
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ranggawaridat\&show_icons=true\&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=ranggawaridat\&theme=tokyonight\&hide_border=true\&background=0D0B1A\&ring=A78BFA\&fire=C8B6FF\&currStreakLabel=9F8FFF)
+
+---
+
+## 🜏 Notes
+
+* learning by building, not just reading
+* trying to understand trade-offs, not chase tools
