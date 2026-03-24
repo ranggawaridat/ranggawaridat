@@ -20,8 +20,8 @@
 * Authentication (JWT)
 * Caching
 * Concurrency
-* System Design (basic)
-* Deployment (VPS, NGINX)
+* System Design
+* Deployment
 
 ---
 
@@ -37,9 +37,3 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ranggawaridat\&theme=tokyonight\&hide_border=true\&background=0D0B1A\&ring=A78BFA\&fire=C8B6FF\&currStreakLabel=9F8FFF)
 
----
-
-## 🜏 Notes
-
-* learning by building, not just reading
-* trying to understand trade-offs, not chase tools
