@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Rangga Waridat — Backend Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a0b10"/>
+      <stop offset="1" stop-color="#0d1017"/>
+    </linearGradient>
+    <radialGradient id="ember" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#c9a45c" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#c9a45c" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#efe0bc"/>
+      <stop offset="0.55" stop-color="#c9a45c"/>
+      <stop offset="1" stop-color="#a8894f"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#c9a45c" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#1c1f2a" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c9a45c" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#c9a45c" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#c9a45c" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="320" fill="url(#bg)"/>
+  <ellipse cx="1060" cy="130" rx="380" ry="300" fill="url(#ember)"/>
+
+  <g fill="#e6cd9a">
+    <circle cx="152" cy="66" r="1.4" opacity="0.20"/>
+    <circle cx="238" cy="52" r="1" opacity="0.14"/>
+    <circle cx="366" cy="60" r="1.2" opacity="0.12"/>
+    <circle cx="508" cy="46" r="1.6" opacity="0.16"/>
+    <circle cx="646" cy="74" r="1" opacity="0.13"/>
+    <circle cx="748" cy="52" r="1.3" opacity="0.18"/>
+    <circle cx="842" cy="88" r="1" opacity="0.12"/>
+    <circle cx="918" cy="62" r="1.4" opacity="0.15"/>
+    <circle cx="1198" cy="88" r="1.2" opacity="0.18"/>
+    <circle cx="1218" cy="142" r="1" opacity="0.12"/>
+    <circle cx="88" cy="96" r="1.2" opacity="0.16"/>
+    <circle cx="756" cy="248" r="1" opacity="0.10"/>
+  </g>
+
+  <rect x="28" y="28" width="1224" height="264" fill="none" stroke="#232633" stroke-width="1"/>
+
+  <g stroke="#c9a45c" stroke-width="2" stroke-opacity="0.7" fill="none">
+    <path d="M28 62 V28 H62"/>
+    <path d="M1218 28 H1252 V62"/>
+    <path d="M28 258 V292 H62"/>
+    <path d="M1218 292 H1252 V258"/>
+  </g>
+
+  <rect x="80" y="104" width="2" height="136" fill="url(#bar)"/>
+
+  <text x="112" y="158" font-family="Georgia, 'Times New Roman', serif" font-size="46" letter-spacing="12" fill="url(#gold)">RANGGA WARIDAT</text>
+  <rect x="112" y="184" width="440" height="1" fill="url(#rule)"/>
+  <text x="112" y="214" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" letter-spacing="4.2" fill="#8a8fa3">BACKEND ENGINEER · DISTRIBUTED SYSTEMS</text>
+  <text x="112" y="250" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="17" fill="#7d8296">Build systems that feel alive.</text>
+
+  <g>
+    <circle cx="1070" cy="160" r="80" fill="#c9a45c" fill-opacity="0.03"/>
+    <circle cx="1070" cy="160" r="80" fill="none" stroke="#c9a45c" stroke-opacity="0.32"/>
+    <circle cx="1070" cy="160" r="66" fill="none" stroke="#c9a45c" stroke-opacity="0.5"/>
+    <circle cx="1070" cy="160" r="42" fill="none" stroke="#c9a45c" stroke-opacity="0.22" stroke-dasharray="2 7"/>
+    <path d="M1070 102 L1082 148 L1128 160 L1082 172 L1070 218 L1058 172 L1012 160 L1058 148 Z" fill="#c9a45c" fill-opacity="0.05" stroke="#c9a45c" stroke-opacity="0.55"/>
+    <rect x="1064" y="154" width="12" height="12" transform="rotate(45 1070 160)" fill="#e6cd9a" fill-opacity="0.85"/>
+  </g>
+</svg>
